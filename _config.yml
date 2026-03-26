@@ -1,0 +1,7 @@
+title: 我的网站
+description: 欢迎访问我的个人网站
+baseurl: ""
+url: "https://CJZWYZ.github.io"
+theme: jekyll-theme-minimal
+github:
+  is_project_page: false
