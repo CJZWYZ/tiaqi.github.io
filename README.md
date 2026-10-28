@@ -25,3 +25,5 @@ python3 -m http.server 8000
 ## 部署
 
 已配置 GitHub Pages，仓库根目录的 `index.html` 即为站点入口。
+
+<!-- deployed: 2026-10-28T00:18:16Z -->
